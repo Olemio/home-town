@@ -14,7 +14,7 @@ body {
   background-image: url(./public/torshov-image.png);
   background-size: cover;
   height: 343px;
-  color: #d8f3dc;
+  color: #fff;
   display: flex;
   flex-direction: column;
   justify-content: center;
